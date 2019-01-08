@@ -1,0 +1,30 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\bin\Debug\crossproxy.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\bin\Debug\crossproxy.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\bin\Debug\crossproxy.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\dxf_tools.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\dxf_tools.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\dxf-tools.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\crossproxy.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\crossproxy.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\dxf-tools.csprojResolveAssemblyReference.cache
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\bin\Debug\lsass.exe.config
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\bin\Debug\lsass.exe
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\bin\Debug\lsass.pdb
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\dxf-tools.csprojResolveAssemblyReference.cache
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\dxf_tools.Form1.resources
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\dxf_tools.Properties.Resources.resources
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\dxf-tools.csproj.GenerateResource.cache
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\dxf-tools.csproj.CoreCompileInputs.cache
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\lsass.exe
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Debug\lsass.pdb
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Debug\dxf_tools.Form1.resources
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Debug\dxf_tools.Properties.Resources.resources
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Debug\dxf-tools.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Debug\dxf-tools.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Debug\dxf-tools.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\bin\Debug\csrss.exe
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\bin\Debug\lsass.exe.config
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\bin\Debug\lsass.exe
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\bin\Debug\lsass.pdb
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Debug\lsass.exe
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Debug\lsass.pdb

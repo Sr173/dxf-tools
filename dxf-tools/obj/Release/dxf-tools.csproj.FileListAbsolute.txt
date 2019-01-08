@@ -1,0 +1,28 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Release\dxf-tools.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Release\dxf_tools.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Release\dxf_tools.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Release\dxf-tools.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\bin\Release\crossproxy.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\bin\Release\crossproxy.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\bin\Release\crossproxy.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Release\crossproxy.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Release\crossproxy.pdb
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Release\dxf_tools.Form1.resources
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Release\dxf_tools.Properties.Resources.resources
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Release\dxf-tools.csproj.GenerateResource.cache
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Release\dxf-tools.csproj.CoreCompileInputs.cache
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\bin\Release\lsass.exe.config
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\bin\Release\lsass.exe
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\bin\Release\lsass.pdb
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Release\lsass.exe
+C:\Users\66456\Documents\Visual Studio 2017\Projects\dxf-tools\dxf-tools\obj\Release\lsass.pdb
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Release\dxf-tools.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Release\dxf_tools.Form1.resources
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Release\dxf_tools.Properties.Resources.resources
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Release\dxf-tools.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Release\dxf-tools.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\bin\Release\lsass.exe.config
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\bin\Release\lsass.exe
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\bin\Release\lsass.pdb
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Release\lsass.exe
+C:\Users\admin\source\repos\dxf-tools\dxf-tools\obj\Release\lsass.pdb
